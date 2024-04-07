@@ -19,14 +19,6 @@ After the PhD, I held a Postdoc position at the [Cyber Security Group](https://w
 
 From 2022 to 2024 I joined Prof. [Silvio Micali](https://people.csail.mit.edu/silvio/) at [Algorand](https://algorandtechnologies.com) as an **Applied Scientist** and **Solution Architect**. I worked on several projects including the prototyping of the Algorand CoChains (sidechains), and the architecture of decentralised applications in the financial sector.
 
-<!--
-Some projects I co-authored and supervised are:
-
-- Bank of Italy, [Publication No. 26](https://www.bancaditalia.it/pubblicazioni/mercati-infrastrutture-e-sistemi-di-pagamento/approfondimenti/2022-026/index.html?com.dotmarketing.htmlpage.language=1&dotcache=refresh) - *Integrating DLTs with market infrastructures: analysis and proof-of-concept for secure DvP between TIPS and DLT platforms*.
-- Bank of Italy, [MilanoHub CfP22](https://www.bancaditalia.it/media/notizia/fintech-milano-hub-call-for-proposals-2022-list-of-selected-projects/?com.dotmarketing.htmlpage.language=1) (FintechHub) - *An Algorand-based market infrastructure for Italian Bonds*.
-- Cetif and Bank of Italy, [Surety bonds](https://eng.cetif.it/about-us-they-say/fideiussioni-svolta-sulla-blockchain-costi-piu-bassi-e-meno-rischi-di-frodi) on the Algorand blockchain.
--->
-
 Additionally, since 2021, I have been a **board member** and **advisor** for [LayerZero Analytics LTD](https://www.lzeroanalytics.com), where I co-authored two successful grant applications received from the [SSV Network](https://ssv.network) and the [Coreum Network](https://www.coreum.com).
 
 ## Awards and Grants
