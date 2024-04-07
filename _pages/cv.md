@@ -12,31 +12,38 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Southampton, Southampton (UK), 2022
-* M.Sc. in Engineering of Computer Science (*cum laude*), "La Sapienza" University of Rome, Rome (IT), 2018
-* B.Sc. in GitHub, GitHub University, 2012
+* M.Sc. in Engineering of Computer Science (*cum laude*), "La Sapienza" University of Rome, Rome (IT), 2017
+* B.Sc. Engineering of Computer Systems, "La Sapienza" University of Rome, Rome (IT), 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-Ongoing: Cryptography researcher
+  * University of Salerno
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2024: Applied Scientist and Solution Architect
+  * Algorand Inc. (Boston, Massachusetts, USA)
+  * Algorand Labs (Rome, Italy)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2022: Postdoctoral Researcher
+  * University of Southampton (Southampton, UK)
+
+* 2018: CIS Security Researcher
+  * NATO Office of Security (NATO Headquarter, Brussels, Belgium)
+
+* 2015-2021: Software Engineer and Security Consultant
+  * UNOONE s.r.l. (Rome, Italy)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Secure protocols design
+* Distributed systems
+* Cyber security best practices (NIST Framework)
+* Complex systems testing
+* Software Development
+  * Java
+  * Python
+  * JavaScript/TypeScript
+  * Go
+* Blockchain Development
+  * Algorand TEAL/PyTeal
+  * Solidity
