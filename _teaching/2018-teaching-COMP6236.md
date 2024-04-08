@@ -8,7 +8,7 @@ date: 2018-09-15
 location: "Southamton, United Kingdom"
 ---
 
-Methodologies of secure software design, development, and testing.
+Methodologies of secure software design, development, and testing
 
 Software Engineering and Cyber Security including:
 

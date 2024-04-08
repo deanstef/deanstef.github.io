@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Southamton, United Kingdom"
 ---
 
-Fundamentals of computer networks and distributed systems.
+Fundamentals of computer networks and distributed systems
 
 Distributed Systems and Networks including:
 

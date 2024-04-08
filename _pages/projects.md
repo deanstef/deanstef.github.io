@@ -10,7 +10,7 @@ Here a list of projects including open source software and open publications I h
 ## Institutional
 
 - Bank of Italy [No. 26 Publication](https://www.bancaditalia.it/pubblicazioni/mercati-infrastrutture-e-sistemi-di-pagamento/approfondimenti/2022-026/index.html?com.dotmarketing.htmlpage.language=1) - Integrating DLTs with market infrastructures: analysis and proof-of-concept for secure DvP between TIPS and DLT platforms (contributor)
-- Bank of Italy [Memorandum of understanding](https://www.bancaditalia.it/media/notizia/smart-contracts-memorandum-of-understanding-between-the-bank-of-italy-universit-cattolica-del-sacro-cuore-and-roma-tre-university/?com.dotmarketing.htmlpage.language=1) - Characteristics of Smart Contracts used in Distributed Ledger Technology. To appear. (contributor)
+- Bank of Italy [Memorandum of understanding](https://www.bancaditalia.it/media/notizia/smart-contracts-memorandum-of-understanding-between-the-bank-of-italy-universit-cattolica-del-sacro-cuore-and-roma-tre-university/?com.dotmarketing.htmlpage.language=1) - Characteristics of Smart Contracts used in Distributed Ledger Technology (to appear)
 
 ## Algorand Projects
 
@@ -36,7 +36,7 @@ In this tutorial, I explain how to create a private Algorand network in a self-h
 
 ### Algorand SmartASA reference implementation
 
-Implementation of the standard ARC-20 (SmartASA). It is a tokenization framework that combines Algorand's native assets (ASAs) with the composability and programmability of Algorand Smart Contracts. This reference implementation is the building block for Real World Assets tokenization on the Algorand blockchain.
+Implementation of the standard [ARC-20](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0020.md) (SmartASA). It is a tokenization framework that combines Algorand's native assets (ASAs) with the composability and programmability of Algorand Smart Contracts. This reference implementation is the building block for Real World Assets tokenization on the Algorand blockchain.
 
 Co-authored with [Cosimo Bassi](https://github.com/cusma).
 

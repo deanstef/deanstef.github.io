@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Southamton, United Kingdom"
 ---
 
-Basic security principles in IT systems.
+Basic security principles in IT systems
 
 Principles of Cyber Security including:
 
