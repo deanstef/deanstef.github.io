@@ -23,11 +23,9 @@ author_profile: true
 
 ## Preprints
 
-0. **Performance and scalability testing for blockchain consensus protocols: an empirical framework**.<br/>
-Alked Ejupi\*, Stefano De Angelis\*, and Vladimiro Sassone. To appear.
-1. **How Does your Blockchain Behave Under Attack? A Performance and Security Analysis of Permissioned Blockchains**.<br/> 
+0. **How Does your Blockchain Behave Under Attack? A Performance and Security Analysis of Permissioned Blockchains**.<br/> 
 Stefano De Angelis, Leonardo Aniello, Federico Lombardi, and Vladimiro Sassone. To appear.
-2. **A Dependability Benchmark for Blockchain Systems and Consensus Protocols**.<br/>
+1. **A Dependability Benchmark for Blockchain Systems and Consensus Protocols**.<br/>
 Stefano De Angelis, Leonardo Aniello, Federico Lombardi, and Vladimiro Sassone. To appear.
 {: reversed="reversed"}
 
@@ -35,11 +33,15 @@ Stefano De Angelis, Leonardo Aniello, Federico Lombardi, and Vladimiro Sassone. 
 
 ## Conference Proceedings
 
-0. **Evaluating Blockchain Systems: A Comprehensive Study of Security and Dependability Attributes.**<br/>
+0. **Efficient Query Verification for Blockchain Superlight Clients Using SNARKs.**<br/>
+Stefano De Angelis, Ivan Visconti, Andrea Vitaletti, and Marco Zecchini. CoRR, vol. abs/2503.08359, 2025. Available at: [https://doi.org/10.48550/arXiv.2503.08359](https://doi.org/10.48550/arXiv.2503.08359)
+0. **Performance and Scalability Testing for Blockchain Consensus Protocols: an Empirical Framework.**<br/>
+Alked Ejupi, Stefano De Angelis, and Vladimiro Sassone. In Proceedings of the Sixth Distributed Ledger Technology Workshop (DLT 2024), Turin, Italy, May 14–15, 2024. CEUR Workshop Proceedings, vol. 3791, CEUR-WS.org, 2024. [https://ceur-ws.org/Vol-3791/paper22.pdf](https://ceur-ws.org/Vol-3791/paper22.pdf)
+1. **Evaluating Blockchain Systems: A Comprehensive Study of Security and Dependability Attributes.**<br/>
 Stefano De Angelis\*, Gilberto Zanfino, Leonardo Aniello, Federico Lombardi\*, and Vladimiro Sassone, Proceedings of the 4th Workshop on Distributed Ledger Technology co-located with the Italian Conference on Cybersecurity 2022 (ITASEC 2022), Rome, Italy, June 20, (2022) vol. 3166, pp. 18-32. [https://ceur-ws.org/Vol-3166/paper02.pdf](https://ceur-ws.org/Vol-3166/paper02.pdf)
-1. **A Blockchain-based Infrastructure for Reliable and Cost-effective IoT-aided Smart Grids**.<br/>
+2. **A Blockchain-based Infrastructure for Reliable and Cost-effective IoT-aided Smart Grids**.<br/>
 Federico Lombardi, Leonardo Aniello, Stefano De Angelis, Andrea Margheri, and Vladimiro Sassone. Living in the Internet of Things: Cybersecurity of the IoT - 2018, London, 2018, pp. 1-6, doi: 10.1049/cp.2018.0042. [https://ieeexplore.ieee.org/document/8379729](https://ieeexplore.ieee.org/document/8379729)
-2. **PBFT vs proof-of-authority: applying the CAP theorem to permissioned blockchain**.<br/>
+3. **PBFT vs proof-of-authority: applying the CAP theorem to permissioned blockchain**.<br/>
 Stefano De Angelis, Leonardo Aniello, Roberto Baldoni, Federico Lombardi, Andrea Margheri, Vladimiro Sassone. Proceedings of the Second Italian Conference on Cyber Security. Milan, Italy, February 6th - to - 9th, (2018) vol. 2058. [https://ceur-ws.org/Vol-2058/paper-06.pdf](https://ceur-ws.org/Vol-2058/paper-06.pdf)
 {: reversed="reversed"}
 
@@ -82,3 +84,5 @@ List of journals I am regularly reviewing:
 - IEEE Transactions on Parallel and Distributed Systems
 - Taylor & Francis Online – International Journal of Parallel, Emergent and Distributed Systems
 - IEEE/ACM Transactions on Networking
+- Future Generation Computer Systems ([FGCS](https://www.sciencedirect.com/journal/future-generation-computer-systems))
+- Blockchain: Research and Applications ([BCRA](https://www.sciencedirect.com/journal/blockchain-research-and-applications))

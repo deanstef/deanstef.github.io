@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2024-Ongoing: Cryptography researcher
+* 2024-Ongoing: Consensus Researcher
+  * Nethermind
+
+* 2024-2025: Cryptography research fellow
   * University of Salerno
 
 * 2022-2024: Applied Scientist and Solution Architect
@@ -35,7 +38,8 @@ Work experience
   
 Skills
 ======
-* Secure protocols design
+* Design of secure protocols
+* Zero Knowledge Proofs (SNARKs and STARKs)
 * Distributed systems
 * Cyber security best practices (NIST Framework)
 * Complex systems testing
