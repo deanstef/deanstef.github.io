@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Stefano De Angelis"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Computer Science. Researcher at University of Salerno and University of Southampton"
+  bio              : "Research Scientist at Nethermind. PhD in Computer Science."
   location         : #
-  employer         : University of Salerno
+  employer         : Nethermind
   uri              : # URL
   email            : "stefano.deangelis@me.com" 
 
