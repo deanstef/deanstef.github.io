@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Nethermind](https://www.nethermind.io), focussing on **distributed systems** and **applied cryptography**, more specifically in **consensus** protocols, **blockchains**, and **cryptographic proof systems**. I am also a visiting researcher at the University of Southampton (UK) working on security and dependability aspects of decentralized systems.
+I am a research scientist at [Nethermind](https://www.nethermind.io), focussing on **distributed systems** and **applied cryptography**, more specifically in **consensus** protocols, **blockchains**, and **cryptographic proof systems**. I am also a visiting researcher at the University of Southampton (UK) working on security and dependability aspects of decentralized systems.
 
 I received a Ph.D. in Computer Science in 2022 from the University of Southampton, supported by the [Cyber Security Accademy](https://www.southampton.ac.uk/research/institutes-centres/cyber-security-academy) and supervised by Prof. [Vladimiro Sassone](https://www.southampton.ac.uk/people/5x2mp9/professor-vladi-sassone). I also got a M.Sc. in Engineering of Computer Science awarded (*cum laude*) in 2018, from “La Sapienza” University of Rome (IT).
 
@@ -19,7 +19,7 @@ After the PhD, I held a Postdoc position at the [Cyber Security Group](https://w
 
 From 2022 to 2024 I joined Prof. [Silvio Micali](https://people.csail.mit.edu/silvio/) at [Algorand](https://algorandtechnologies.com) as an **Applied Scientist** and **Solution Architect**. I worked on several projects including the prototyping of the Algorand CoChains (sidechains), and the architecture of decentralised applications in the financial sector.
 
-In 2024, I have also been a researcher at the University of Salerno (IT), working on privacy-aware cryptographic protocols, blockchain applications, and zk-SNARKs(STARKs) with Prof. [Ivan Visconti](https://docenti.unisa.it/004312/home).
+In 2024, I have also been a researcher at the University of Salerno (IT), working on privacy-aware cryptographic protocols, blockchain applications, and zk-SNARKs(STARKs) with Prof. [Ivan Visconti](https://www.diag.uniroma1.it/en/users/ivan_visconti).
 
 Since 2021, I have been a **board member** and **advisor** for [Bloctopus (previously LZero)](https://www.bloctopus.io), where I co-authored two successful grant applications received from the [SSV Network](https://ssv.network) and the [Coreum Network](https://www.coreum.com).
 
